@@ -125,19 +125,10 @@
                 <property role="2Ry0Am" value=".." />
                 <node concept="2Ry0Ak" id="6QABUZoy3o1" role="2Ry0An">
                   <property role="2Ry0Am" value=".." />
-                  <node concept="2Ry0Ak" id="6QABUZoy3qs" role="2Ry0An">
-                    <property role="2Ry0Am" value=".." />
-                    <node concept="2Ry0Ak" id="6QABUZoy3sY" role="2Ry0An">
-                      <property role="2Ry0Am" value=".." />
-                      <node concept="2Ry0Ak" id="6QABUZoy3vB" role="2Ry0An">
-                        <property role="2Ry0Am" value=".." />
-                        <node concept="2Ry0Ak" id="6QABUZoy3Aw" role="2Ry0An">
-                          <property role="2Ry0Am" value="opt" />
-                          <node concept="2Ry0Ak" id="6QABUZoy3D1" role="2Ry0An">
-                            <property role="2Ry0Am" value="MPS" />
-                          </node>
-                        </node>
-                      </node>
+                  <node concept="2Ry0Ak" id="6$rwQjLpint" role="2Ry0An">
+                    <property role="2Ry0Am" value="app" />
+                    <node concept="2Ry0Ak" id="6$rwQjLpipY" role="2Ry0An">
+                      <property role="2Ry0Am" value="MPS-3.4.3-mbeddr-n380" />
                     </node>
                   </node>
                 </node>
